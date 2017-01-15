@@ -2184,6 +2184,22 @@ body.is-touch .main {
 }
 
 
+#three {
+    background: url("images/overlay.png"), url("../../images/intro.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+.logo_box {
+    max-width:30%;
+    margin:30px auto;
+}
+
+.logo {
+    max-width:100%;
+ }
+
 /* Contact */
 
 #contact {
