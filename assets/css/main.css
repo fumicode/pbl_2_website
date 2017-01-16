@@ -2192,7 +2192,7 @@ body.is-touch .main {
 }
 
 .logo_box {
-    max-width:30%;
+    max-width:50%;
     margin:30px auto;
 }
 
@@ -2226,8 +2226,18 @@ body.is-touch .main {
     transform: translateY(100%);
 }
 
+#pbl_title {
+    font-size: 7.25em;
+}
+
 @media screen and (max-width: 736px) {
     #contact .box {
         padding-bottom: 2em;
+    }
+    #pbl_title {
+        font-size: 4em;
+    }
+    .logo_box {
+        max-width: 68%;
     }
 }
