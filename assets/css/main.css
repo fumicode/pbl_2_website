@@ -2221,6 +2221,15 @@ body.is-touch .main {
     padding-bottom: 0;
 }
 
+
+.unei_content {
+    padding: 0 30px;
+}
+
+.unei_name {
+    padding-top: 30px;
+}
+
 #contact .box {
     -moz-transition: -moz-transform 1s ease;
     -webkit-transition: -webkit-transform 1s ease;
