@@ -2183,6 +2183,20 @@ body.is-touch .main {
     background-position: top left, center center;
 }
 
+#schedule {
+    background: url("images/overlay.png"), url("../../images/two.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+#compass {
+    background: url("images/overlay.png"), url("../../images/two.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
 
 #three {
     background: url("images/overlay.png"), url("../../images/intro.jpg");
@@ -2194,7 +2208,7 @@ body.is-touch .main {
 /* Logo */
 
 .logo_box {
-    max-width:50%;
+    max-width:30%;
     margin:30px auto;
 }
 
@@ -2228,6 +2242,8 @@ body.is-touch .main {
     transform: translateY(100%);
 }
 
+<<<<<<< HEAD
+=======
 #pbl_title {
     font-size: 7.25em;
 }
@@ -2240,14 +2256,9 @@ body.is-touch .main {
     padding-top: 30px;
 }
 
+>>>>>>> 6e8f2c6d333d10a0f976a48a6e1458525595928a
 @media screen and (max-width: 736px) {
     #contact .box {
         padding-bottom: 2em;
-    }
-    #pbl_title {
-        font-size: 4em;
-    }
-    .logo_box {
-        max-width: 68%;
     }
 }
