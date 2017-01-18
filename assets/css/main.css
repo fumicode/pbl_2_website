@@ -2191,6 +2191,8 @@ body.is-touch .main {
     background-position: top left, center center;
 }
 
+/* Logo */
+
 .logo_box {
     max-width:50%;
     margin:30px auto;
@@ -2228,6 +2230,14 @@ body.is-touch .main {
 
 #pbl_title {
     font-size: 7.25em;
+}
+
+.unei_content {
+    padding: 0 20px;
+}
+
+.unei_name {
+    padding-top: 30px;
 }
 
 @media screen and (max-width: 736px) {
