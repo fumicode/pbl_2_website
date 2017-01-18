@@ -2177,7 +2177,7 @@ body.is-touch .main {
 /* Two */
 
 #two {
-    background: url("images/overlay.png"), url("../../images/team.jpg");
+    background: url("images/overlay.png"), url("../../images/team.JPG");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, center center;
@@ -2190,7 +2190,7 @@ body.is-touch .main {
 }
 
 #presen {
-    background: url("images/overlay.png"), url("../../images/team.jpg");
+    background: url("images/overlay.png"), url("../../images/setumei.jpg");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, center center;
