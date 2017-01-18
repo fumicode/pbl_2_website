@@ -2177,10 +2177,29 @@ body.is-touch .main {
 /* Two */
 
 #two {
-    background: url("images/overlay.png"), url("../../images/two.jpg");
+    background: url("images/overlay.png"), url("../../images/team.jpg");
     background-size: 256px 256px, cover;
     background-attachment: fixed, fixed;
     background-position: top left, center center;
+}
+
+#two div{
+    background-color:forestgreen;
+    color:whitesmoke;
+    
+}
+
+#presen {
+    background: url("images/overlay.png"), url("../../images/team.jpg");
+    background-size: 256px 256px, cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+#presen div{
+    background-color:blue;
+    color:whitesmoke;
+    
 }
 
 #schedule {
